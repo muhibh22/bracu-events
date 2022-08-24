@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>Event</title>
+    <title>About</title>
     <link rel="shortcut icon" type="image" href="{{ url('frontend/home/img/mainlogo.ico') }}">
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
@@ -72,9 +72,9 @@
                 <div class="col-md-10 col-md-offset-1 text-center">
                     <ul class="hero-area-tree">
                         <li><a href="index.html">Home</a></li>
-                        <li>Event</li>
+                        <li>About</li>
                     </ul>
-                    <h1 class="white-text">Event</h1>
+                    <h1 class="white-text">About</h1>
 
                 </div>
             </div>
