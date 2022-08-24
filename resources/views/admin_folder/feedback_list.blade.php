@@ -119,17 +119,6 @@
             <!-- aside blog -->
             <div id="aside" class="col-md-3">
 
-
-
-                <!-- tags widget -->
-                <div class="widget tags-widget">
-                    <h3>Tags</h3>
-                    <a class="tag" href="{{ url('/') }}/admin_request">Requests</a>
-                    <a class="tag" href="{{ url('/') }}/feedback_list">View Event Feedback</a>
-                    <a class="tag" href="{{ url('/') }}/University_Event">Create University event</a>
-                </div>
-                <!-- /tags widget -->
-
             </div>
             <!-- /aside blog -->
 
