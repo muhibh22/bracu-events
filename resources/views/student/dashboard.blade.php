@@ -50,8 +50,8 @@
             <nav id="nav">
                 <ul class="main-menu nav navbar-nav navbar-right">
                     <li><a href="{{ url('/') }}/studentdashboard">Dashboard</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="{{ url('/') }}/about">About</a></li>
+                    <li><a href="{{ url('/') }}/contact">Contact</a></li>
                     <li><a href="{{ url('/') }}/studentlogout">Logout</a></li>
                 </ul>
             </nav>

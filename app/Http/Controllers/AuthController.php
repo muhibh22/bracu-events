@@ -531,7 +531,7 @@ class AuthController extends Controller
                 $room->save();
                 $save=$s->save();
                 if($save){
-                    return back()->with('success', 'New Department event created');
+                    return back()->with('success', 'Request Made');
                 }
                 else{
                     return back()->with('fail', 'Something went wrong'); 
