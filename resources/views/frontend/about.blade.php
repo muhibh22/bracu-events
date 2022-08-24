@@ -101,7 +101,6 @@
                         <div class="col-md-6">
                             <div class="single-blog">
                                 <h4>About</h4>
-                                <p>{{ $event->description }}</p>
                                 <p>Brac University (BracU) established in 2001 is located in Dhaka Bangladesh. BracU
                                     follows a liberal arts approach to education which nurtures fresh ideas and gives
                                     new impetus to the field of tertiary education. It ensures a high quality of
