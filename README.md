@@ -1,3 +1,9 @@
+![Screenshot (32)](https://github.com/muhibh22/bracu-events/assets/111929761/0af29151-1747-442d-b54e-0d08db6b4017)
+![Screenshot (33)](https://github.com/muhibh22/bracu-events/assets/111929761/b6f5b0ec-02ad-46dc-bf87-c4552f38938c)
+![Screenshot (34)](https://github.com/muhibh22/bracu-events/assets/111929761/a6b0eedb-0a56-4aba-9ae2-fce125236a59)
+![Screenshot (35)](https://github.com/muhibh22/bracu-events/assets/111929761/ada244ac-ea45-445e-b447-f807cb792f17)
+
+
 Bracu Events is a comprehensive Laravel-based web application designed to streamline and simplify room availability management and event coordination within the context of a university setting. This versatile system offers a wide range of features and functionalities catering to various stakeholders, including students, administrators, faculty, and event organizers.
 
 Key Features
